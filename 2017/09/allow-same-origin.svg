@@ -1,0 +1,39 @@
+<svg width="1024" height="768" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="770" width="1026" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_1" height="253.999995" width="313.000007" y="107.500004" x="41.500007" stroke-width="1.5" fill="#fff"/>
+  <rect stroke="#000" id="svg_2" height="42" width="244.999996" y="213.5" x="77.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_3" y="134.5" x="52.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">https://www.sfpgmr.net/aaa.html</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_5" y="239.5" x="364.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">&lt;iframe src="/bbb.html" sandbox="allow-same-origin" &gt;&lt;/iframe&gt;</text>
+  <text stroke="#000000" transform="matrix(2.100759984492305,0,0,1.91882746704057,-327.33316535933415,-604.5226942769962) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_7" y="442.262057" x="177.310556" stroke-width="0" fill="#000000">〇</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_14" y="324.5" x="362.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">&lt;iframe src="https://alter.sfpgmr.net/bbb.html" sandbox="allow-same-origin" &gt;&lt;/iframe&gt;</text>
+  <rect stroke="#000" id="svg_15" height="42" width="244.999996" y="296.5" x="77.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_26" y="91.5" x="44.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">iframeの場合</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_28" y="238.5" x="114.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">https://www.sfpgmr.net/bbb.html</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_29" y="321.5" x="109.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">https://alter.sfpgmr.net/bbb.html</text>
+  <text stroke="#000000" transform="matrix(2.100759984492305,0,0,1.9188274670405705,-329.33316535933415,-521.522694276996) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_30" y="442.262057" x="177.310556" stroke-width="0" fill="#000000">〇</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_31" y="203.5" x="78.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">同一オリジン ... 表示される</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_32" y="289.5" x="76.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">異なるオリジン ... 表示される</text>
+  <rect stroke="#000" id="svg_46" height="253.999995" width="313.000007" y="432.500004" x="41.500007" stroke-width="1.5" fill="#fff"/>
+  <rect stroke="#000" id="svg_47" height="42" width="244.999996" y="538.5" x="77.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_48" y="459.5" x="52.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">https://www.sfpgmr.net/aaa.html</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_49" y="564.5" x="364.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">&lt;amp-iframe src="/bbb.html" sandbox="allow-same-origin" width="xx" height="xx"&gt;&lt;/amp-iframe&gt;</text>
+  <text stroke="#000000" transform="matrix(2.1007599844923046,0,0,1.9188274670405705,-324.33316535933415,-279.522694276996) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_50" y="442.262057" x="177.310556" stroke-width="0" fill="#000000">×</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_51" y="649.5" x="361.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">&lt;amp-iframe src="https://alter.sfpgmr.net/bbb.html" sandbox="allow-same-origin"  width="xx" height="xx" &gt;&lt;/amp-iframe&gt;</text>
+  <rect stroke="#000" id="svg_52" height="42" width="244.999996" y="621.5" x="77.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_53" y="415.5" x="44.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">amp-iframeの場合</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_54" y="563.5" x="114.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">https://www.sfpgmr.net/bbb.html</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_55" y="646.5" x="109.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">https://alter.sfpgmr.net/bbb.html</text>
+  <text stroke="#000000" transform="matrix(2.1007599844923046,0,0,1.9188274670405705,-329.3331653593342,-196.522694276996) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_56" y="442.262057" x="177.310556" stroke-width="0" fill="#000000">〇</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_57" y="527.5" x="78.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff0000">同一オリジン ... 表示されない</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="15" id="svg_58" y="614.5" x="76.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">異なるオリジン ... 表示される</text>
+ </g>
+</svg>
