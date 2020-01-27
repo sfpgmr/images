@@ -1,0 +1,4394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="3">
+<test_ class_id="0" tracking_level="0" version="1">
+	<px class_id="1" class_name="vst_machine_base" tracking_level="1" version="0" object_id="_0">
+		<name_>Synth1 VSTi (sV1S)</name_>
+		<abstract_machine class_id="2" tracking_level="0" version="0">
+			<mute>0</mute>
+			<freezed>0</freezed>
+			<instance_name>test1</instance_name>
+			<m_freeze>0</m_freeze>
+			<m_removable>0</m_removable>
+			<m_inputs class_id="3" tracking_level="1" version="0" object_id="_1">
+				<count>0</count>
+			</m_inputs>
+			<m_outputs object_id="_2">
+				<count>2</count>
+				<item class_id="5" class_name="vst_io_port" tracking_level="1" version="0" object_id="_3">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>0</category>
+					<io_type>1</io_type>
+					<index>0</index>
+					<buffer_size>0</buffer_size>
+					<io_port class_id="4" tracking_level="1" version="0" object_id="_4">
+						<category>0</category>
+						<io_type>1</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.625</value>
+					</io_port>
+					<value_>0.625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_5">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>0</category>
+					<io_type>1</io_type>
+					<index>1</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_6">
+						<category>0</category>
+						<io_type>1</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.375</value>
+					</io_port>
+					<value_>0.375</value_>
+				</item>
+			</m_outputs>
+			<m_parameters object_id="_7">
+				<count>255</count>
+				<item class_id_reference="5" object_id="_8">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>0</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_9">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.625</value>
+					</io_port>
+					<value_>0.625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_10">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>1</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_11">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.375</value>
+					</io_port>
+					<value_>0.375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_12">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>2</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_13">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.40234375</value>
+					</io_port>
+					<value_>0.40234375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_14">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>3</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_15">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.51953125</value>
+					</io_port>
+					<value_>0.51953125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_16">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>4</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_17">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.75</value>
+					</io_port>
+					<value_>0.75</value_>
+				</item>
+				<item class_id_reference="5" object_id="_18">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>5</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_19">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.51171875</value>
+					</io_port>
+					<value_>0.51171875</value_>
+				</item>
+				<item class_id_reference="5" object_id="_20">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>6</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_21">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.75</value>
+					</io_port>
+					<value_>0.75</value_>
+				</item>
+				<item class_id_reference="5" object_id="_22">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>7</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_23">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_24">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>8</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_25">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.35546875</value>
+					</io_port>
+					<value_>0.35546875</value_>
+				</item>
+				<item class_id_reference="5" object_id="_26">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>9</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_27">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.5</value>
+					</io_port>
+					<value_>0.5</value_>
+				</item>
+				<item class_id_reference="5" object_id="_28">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>10</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_29">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_30">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>11</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_31">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_32">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>12</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_33">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_34">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>13</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_35">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_36">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>14</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_37">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.375</value>
+					</io_port>
+					<value_>0.375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_38">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>15</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_39">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_40">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>16</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_41">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.78515625</value>
+					</io_port>
+					<value_>0.78515625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_42">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>17</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_43">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_44">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>18</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_45">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.58203125</value>
+					</io_port>
+					<value_>0.58203125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_46">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>19</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_47">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.42578125</value>
+					</io_port>
+					<value_>0.42578125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_48">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>20</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_49">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.46484375</value>
+					</io_port>
+					<value_>0.46484375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_50">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>21</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_51">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.64453125</value>
+					</io_port>
+					<value_>0.64453125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_52">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>22</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_53">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.19140625</value>
+					</io_port>
+					<value_>0.19140625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_54">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>23</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_55">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_56">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>24</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_57">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_58">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>25</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_59">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.16015625</value>
+					</io_port>
+					<value_>0.16015625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_60">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>26</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_61">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_62">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>27</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_63">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.99609375</value>
+					</io_port>
+					<value_>0.99609375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_64">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>28</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_65">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.48828125</value>
+					</io_port>
+					<value_>0.48828125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_66">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>29</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_67">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.45703125</value>
+					</io_port>
+					<value_>0.45703125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_68">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>30</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_69">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.17578125</value>
+					</io_port>
+					<value_>0.17578125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_70">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>31</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_71">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.125</value>
+					</io_port>
+					<value_>0.125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_72">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>32</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_73">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.375</value>
+					</io_port>
+					<value_>0.375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_74">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>33</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_75">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.7631579</value>
+					</io_port>
+					<value_>0.7631579</value_>
+				</item>
+				<item class_id_reference="5" object_id="_76">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>34</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_77">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.87109375</value>
+					</io_port>
+					<value_>0.87109375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_78">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>35</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_79">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.42500001</value>
+					</io_port>
+					<value_>0.42500001</value_>
+				</item>
+				<item class_id_reference="5" object_id="_80">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>36</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_81">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.31640625</value>
+					</io_port>
+					<value_>0.31640625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_82">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>37</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_83">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.15234375</value>
+					</io_port>
+					<value_>0.15234375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_84">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>38</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_85">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.125</value>
+					</io_port>
+					<value_>0.125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_86">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>39</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_87">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_88">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>40</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_89">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.5</value>
+					</io_port>
+					<value_>0.5</value_>
+				</item>
+				<item class_id_reference="5" object_id="_90">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>41</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_91">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.40000001</value>
+					</io_port>
+					<value_>0.40000001</value_>
+				</item>
+				<item class_id_reference="5" object_id="_92">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>42</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_93">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.30000001</value>
+					</io_port>
+					<value_>0.30000001</value_>
+				</item>
+				<item class_id_reference="5" object_id="_94">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>43</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_95">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.48046875</value>
+					</io_port>
+					<value_>0.48046875</value_>
+				</item>
+				<item class_id_reference="5" object_id="_96">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>44</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_97">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.99609375</value>
+					</io_port>
+					<value_>0.99609375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_98">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>45</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_99">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_100">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>46</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_101">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.40000001</value>
+					</io_port>
+					<value_>0.40000001</value_>
+				</item>
+				<item class_id_reference="5" object_id="_102">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>47</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_103">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.30000001</value>
+					</io_port>
+					<value_>0.30000001</value_>
+				</item>
+				<item class_id_reference="5" object_id="_104">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>48</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_105">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.05078125</value>
+					</io_port>
+					<value_>0.05078125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_106">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>49</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_107">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.80078125</value>
+					</io_port>
+					<value_>0.80078125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_108">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>50</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_109">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.99609375</value>
+					</io_port>
+					<value_>0.99609375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_110">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>51</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_111">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.99609375</value>
+					</io_port>
+					<value_>0.99609375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_112">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>52</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_113">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_114">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>53</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_115">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_116">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>54</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_117">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.39453125</value>
+					</io_port>
+					<value_>0.39453125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_118">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>55</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_119">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_120">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>56</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_121">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.34765625</value>
+					</io_port>
+					<value_>0.34765625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_122">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>57</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_123">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_124">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>58</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_125">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_126">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>59</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_127">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_128">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>60</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_129">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_130">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>61</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_131">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_132">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>62</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_133">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_134">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>63</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_135">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_136">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>64</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_137">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.375</value>
+					</io_port>
+					<value_>0.375</value_>
+				</item>
+				<item class_id_reference="5" object_id="_138">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>65</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_139">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.75</value>
+					</io_port>
+					<value_>0.75</value_>
+				</item>
+				<item class_id_reference="5" object_id="_140">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>66</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_141">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_142">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>67</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_143">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_144">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>68</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_145">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_146">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>69</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_147">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_148">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>70</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_149">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_150">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>71</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_151">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.16599999</value>
+					</io_port>
+					<value_>0.16599999</value_>
+				</item>
+				<item class_id_reference="5" object_id="_152">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>72</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_153">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_154">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>73</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_155">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_156">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>74</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_157">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.25</value>
+					</io_port>
+					<value_>0.25</value_>
+				</item>
+				<item class_id_reference="5" object_id="_158">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>75</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_159">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.17578125</value>
+					</io_port>
+					<value_>0.17578125</value_>
+				</item>
+				<item class_id_reference="5" object_id="_160">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>76</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_161">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_162">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>77</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_163">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.75</value>
+					</io_port>
+					<value_>0.75</value_>
+				</item>
+				<item class_id_reference="5" object_id="_164">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>78</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_165">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.91666669</value>
+					</io_port>
+					<value_>0.91666669</value_>
+				</item>
+				<item class_id_reference="5" object_id="_166">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>79</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_167">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_168">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>80</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_169">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_170">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>81</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_171">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_172">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>82</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_173">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.16666667</value>
+					</io_port>
+					<value_>0.16666667</value_>
+				</item>
+				<item class_id_reference="5" object_id="_174">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>83</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_175">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.63671875</value>
+					</io_port>
+					<value_>0.63671875</value_>
+				</item>
+				<item class_id_reference="5" object_id="_176">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>84</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_177">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>1.1770907e-043</value>
+					</io_port>
+					<value_>1.1770907e-043</value_>
+				</item>
+				<item class_id_reference="5" object_id="_178">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>85</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_179">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>1.1911037e-043</value>
+					</io_port>
+					<value_>1.1911037e-043</value_>
+				</item>
+				<item class_id_reference="5" object_id="_180">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>86</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_181">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>1.2051167e-043</value>
+					</io_port>
+					<value_>1.2051167e-043</value_>
+				</item>
+				<item class_id_reference="5" object_id="_182">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>87</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_183">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>1.2191297e-043</value>
+					</io_port>
+					<value_>1.2191297e-043</value_>
+				</item>
+				<item class_id_reference="5" object_id="_184">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>88</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_185">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>1.2331426e-043</value>
+					</io_port>
+					<value_>1.2331426e-043</value_>
+				</item>
+				<item class_id_reference="5" object_id="_186">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>89</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_187">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>1.2471556e-043</value>
+					</io_port>
+					<value_>1.2471556e-043</value_>
+				</item>
+				<item class_id_reference="5" object_id="_188">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>90</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_189">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_190">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>91</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_191">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_192">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>92</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_193">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_194">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>93</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_195">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_196">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>94</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_197">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_198">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>95</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_199">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_200">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>96</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_201">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_202">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>97</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_203">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_204">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>98</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_205">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_206">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>99</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_207">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_208">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>100</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_209">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_210">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>101</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_211">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_212">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>102</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_213">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_214">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>103</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_215">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_216">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>104</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_217">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_218">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>105</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_219">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_220">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>106</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_221">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_222">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>107</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_223">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_224">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>108</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_225">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_226">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>109</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_227">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_228">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>110</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_229">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_230">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>111</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_231">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_232">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>112</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_233">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_234">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>113</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_235">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_236">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>114</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_237">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_238">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>115</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_239">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_240">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>116</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_241">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_242">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>117</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_243">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_244">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>118</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_245">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_246">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>119</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_247">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_248">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>120</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_249">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_250">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>121</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_251">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_252">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>122</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_253">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_254">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>123</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_255">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_256">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>124</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_257">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_258">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>125</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_259">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_260">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>126</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_261">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_262">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>127</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_263">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_264">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>128</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_265">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_266">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>129</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_267">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_268">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>130</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_269">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_270">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>131</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_271">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_272">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>132</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_273">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_274">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>133</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_275">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_276">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>134</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_277">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_278">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>135</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_279">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_280">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>136</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_281">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_282">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>137</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_283">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_284">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>138</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_285">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_286">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>139</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_287">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_288">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>140</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_289">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_290">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>141</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_291">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_292">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>142</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_293">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_294">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>143</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_295">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_296">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>144</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_297">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_298">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>145</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_299">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_300">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>146</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_301">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_302">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>147</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_303">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_304">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>148</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_305">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_306">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>149</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_307">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_308">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>150</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_309">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_310">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>151</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_311">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_312">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>152</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_313">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_314">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>153</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_315">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_316">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>154</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_317">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_318">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>155</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_319">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_320">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>156</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_321">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_322">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>157</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_323">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_324">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>158</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_325">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_326">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>159</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_327">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_328">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>160</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_329">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_330">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>161</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_331">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_332">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>162</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_333">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_334">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>163</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_335">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_336">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>164</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_337">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_338">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>165</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_339">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_340">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>166</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_341">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_342">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>167</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_343">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_344">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>168</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_345">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_346">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>169</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_347">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_348">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>170</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_349">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_350">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>171</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_351">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_352">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>172</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_353">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_354">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>173</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_355">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_356">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>174</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_357">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_358">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>175</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_359">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_360">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>176</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_361">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_362">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>177</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_363">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_364">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>178</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_365">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_366">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>179</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_367">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_368">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>180</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_369">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_370">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>181</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_371">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_372">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>182</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_373">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_374">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>183</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_375">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_376">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>184</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_377">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_378">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>185</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_379">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_380">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>186</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_381">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_382">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>187</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_383">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_384">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>188</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_385">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_386">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>189</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_387">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_388">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>190</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_389">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_390">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>191</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_391">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_392">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>192</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_393">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_394">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>193</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_395">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_396">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>194</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_397">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_398">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>195</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_399">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_400">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>196</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_401">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_402">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>197</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_403">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_404">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>198</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_405">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_406">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>199</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_407">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_408">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>200</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_409">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_410">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>201</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_411">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_412">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>202</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_413">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_414">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>203</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_415">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_416">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>204</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_417">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_418">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>205</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_419">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_420">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>206</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_421">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_422">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>207</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_423">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_424">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>208</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_425">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_426">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>209</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_427">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_428">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>210</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_429">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_430">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>211</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_431">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_432">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>212</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_433">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_434">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>213</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_435">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_436">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>214</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_437">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_438">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>215</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_439">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_440">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>216</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_441">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_442">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>217</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_443">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_444">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>218</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_445">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_446">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>219</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_447">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_448">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>220</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_449">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_450">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>221</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_451">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_452">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>222</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_453">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_454">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>223</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_455">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_456">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>224</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_457">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_458">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>225</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_459">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_460">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>226</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_461">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_462">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>227</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_463">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_464">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>228</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_465">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_466">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>229</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_467">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_468">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>230</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_469">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_470">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>231</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_471">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_472">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>232</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_473">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_474">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>233</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_475">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_476">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>234</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_477">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_478">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>235</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_479">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_480">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>236</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_481">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_482">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>237</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_483">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_484">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>238</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_485">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_486">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>239</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_487">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_488">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>240</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_489">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_490">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>241</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_491">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_492">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>242</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_493">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_494">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>243</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_495">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_496">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>244</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_497">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_498">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>245</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_499">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_500">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>246</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_501">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_502">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>247</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_503">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_504">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>248</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_505">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_506">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>249</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_507">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0</value>
+					</io_port>
+					<value_>0</value_>
+				</item>
+				<item class_id_reference="5" object_id="_508">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>250</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_509">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.10700001</value>
+					</io_port>
+					<value_>0.10700001</value_>
+				</item>
+				<item class_id_reference="5" object_id="_510">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>251</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_511">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.050000001</value>
+					</io_port>
+					<value_>0.050000001</value_>
+				</item>
+				<item class_id_reference="5" object_id="_512">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>252</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_513">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.00390625</value>
+					</io_port>
+					<value_>0.00390625</value_>
+				</item>
+				<item class_id_reference="5" object_id="_514">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>253</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_515">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.96875</value>
+					</io_port>
+					<value_>0.96875</value_>
+				</item>
+				<item class_id_reference="5" object_id="_516">
+					<ref_interface class_id_reference="1" object_id_reference="_0"></ref_interface>
+					<category>1</category>
+					<io_type>0</io_type>
+					<index>254</index>
+					<buffer_size>0</buffer_size>
+					<io_port object_id="_517">
+						<category>1</category>
+						<io_type>0</io_type>
+						<min_display_value>0</min_display_value>
+						<max_display_value>1</max_display_value>
+						<unit></unit>
+						<buffer_size>0</buffer_size>
+						<value>0.50390625</value>
+					</io_port>
+					<value_>0.50390625</value_>
+				</item>
+			</m_parameters>
+		</abstract_machine>
+	</px>
+</test_>
+</boost_serialization>
