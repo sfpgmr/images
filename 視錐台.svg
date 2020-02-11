@@ -1,0 +1,31 @@
+<svg version="1.1" viewBox="0 0 640 480" xmlns="http://www.w3.org/2000/svg">
+ <g fill="none" stroke="#000">
+  <path d="m565.68 228.86h-459.62l368.06-212.5m91.192 212.57h-459.62l368.06 212.5m-150-338.2v251.35m98.87-309.75v368.32"/>
+  <path d="m155.18 200.63c6.068 6.077 10.112 14.142 11.353 22.64 1.844 12.632-2.755 26.037-11.967 34.877" stroke-width=".622"/>
+  <path d="m324.51 103.31c14.736 24.882 20.287 55.068 15.368 83.565a123.3 123.3 0 0 1-15.98 42.758" stroke-width=".98"/>
+  <path d="m107.28 229.2a411.22 411.22 0 0 0 107.84 14.49 411.22 411.22 0 0 0 108.4-14.49"/>
+ </g>
+ <path d="m189.21 236.17h56.29v15.884h-56.29z" fill="#fff"/>
+ <text transform="matrix(1.1413 0 0 .8762 0 -572.36)" x="166.627" y="937.523" font-family="Sans" font-size="16" font-weight="400" letter-spacing="0" word-spacing="0" writing-mode="lr" style="line-height:125%"><tspan x="166.627" y="937.523">Depth</tspan></text>
+ <text transform="matrix(1.0939 0 0 .91414 0 -572.36)" x="186.872" y="855.184" font-family="Sans" font-size="16" font-weight="400" letter-spacing="0" word-spacing="0" writing-mode="lr" style="line-height:125%"><tspan x="186.872" y="855.184">fov(視野角)</tspan></text>
+ <g stroke="#000">
+  <path d="m164.13 214.99 36.505-11.425" fill="none"/>
+  <path d="m105.76 227.76c0 4.618-1.934 8.36-4.319 8.36s-4.32-3.742-4.32-8.36c0-4.616 1.935-8.359 4.32-8.359s4.32 3.743 4.32 8.36z" fill="#fff"/>
+  <path transform="matrix(1 0 0 1.3767 6 -88.302)" d="M98.925 229.76a3.623 3.623 0 11-7.245 0 3.623 3.623 0 017.245 0z"/>
+ </g>
+ <path d="m332.17 153.13h41.242v26.473h-41.242z" fill="#fff"/>
+ <g font-family="Sans" font-weight="400" letter-spacing="0" word-spacing="0">
+  <g font-size="16">
+   <text transform="matrix(1.07 0 0 .93457 0 -572.36)" x="204.24" y="1007.966" style="line-height:125%"><tspan x="204.24" y="1007.966">前クリップ面</tspan> <tspan x="204.24" y="1027.98">Z=0.0</tspan></text>
+   <text transform="matrix(1.07 0 0 .93457 0 -572.36)" x="298.837" y="1066.925" style="line-height:125%"><tspan x="298.837" y="1066.925">後クリップ面</tspan> <tspan x="298.837" y="1086.939">Z=100.0</tspan></text>
+   <text transform="translate(0 -572.36)" x="174.722" y="837.235" style="line-height:125%"><tspan x="174.722" y="837.235">視点からの距離</tspan></text>
+   <text transform="translate(0 -572.36)" x="332.229" y="161.674" writing-mode="lr" style="line-height:125%"><tspan>1.0</tspan></text>
+  </g>
+  <g font-size="12">
+   <text transform="translate(0 -572.36)" x="334.674" y="741.375" style="line-height:125%"><tspan x="334.674" y="741.375">1.0</tspan></text>
+   <text transform="translate(0 -572.36)" x="89.729" y="822.465" style="line-height:125%"><tspan x="89.729" y="822.465">視点</tspan></text>
+   <text transform="translate(0 -572.36)" x="290.67" y="670.617" style="line-height:125%"><tspan x="290.67" y="670.617">X=-1.0</tspan></text>
+   <text transform="translate(0 -572.36)" x="330.779" y="926.946" style="line-height:125%"><tspan x="330.779" y="926.946">X=1.0</tspan></text>
+  </g>
+ </g>
+</svg>
